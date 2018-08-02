@@ -2,8 +2,6 @@
 '''
 Created on 10-FEB-2018
 @author: Huicheng Liu
-student number: 20071349
-Please contact me if there are any problems email:  17hl7@queensu.ca
 This is the main code, please run it to execute the code.
 					                    !!Attention!!
 """<Please make sure to let the code end by itself even though it might take about 5 minutes to finish(depends on the computer).
